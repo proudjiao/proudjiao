@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
+</p> -->
 <h1>
   Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Proud Jiao
 </h1>
