@@ -16,13 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </p>
 <h1>
-  hey there
+  Hey there👋 I'm Proud Jiao
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
-
-- 👋 My name is Proud Jiao
+- 👨‍💻 I’m a former Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
 - 👀 I’m interested in **Software Engineer** and **Data Science**
 - 💞️ I’m looking for a summer internship in 2024
 - 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
