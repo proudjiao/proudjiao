@@ -8,9 +8,9 @@
   <a href="https://github.com/proudjiao">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://qianli-wu.com">
+<!--   <a href="https://qianli-wu.com">
     <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
 </div>
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
