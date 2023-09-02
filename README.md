@@ -21,7 +21,7 @@
 
 
 - 👨‍💻 I’m a former Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
-- 👀 I’m interested in **Software Engineer** and **Data Science**
+- 👀 I’m interested in **Software Engineering** and **Data Science**
 - 💞️ I’m looking for a summer internship in 2024
 - 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
 - 📫 How to reach me: [jiaop24@g.ucla.edu](mailto:jiaop24@g.ucla.edu)
@@ -54,6 +54,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
   
 </div>
 
