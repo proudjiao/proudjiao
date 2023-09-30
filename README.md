@@ -11,6 +11,9 @@
 <!--   <a href="https://qianli-wu.com">
     <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
   </a> -->
+  <a href="https://drive.google.com/file/d/1jq1QNfzQm4URdwQxiis1kEKqdz5Fo0oz/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Resume Badge"/>
+</a>
 </div>
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
