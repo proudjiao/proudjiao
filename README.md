@@ -21,9 +21,9 @@
 
 
 - 👨‍💻 I’m a former Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
-- 👀 I’m interested in **Software Engineering** and **Data Science**
-- 💞️ I’m looking for a summer internship in 2024
-- 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
+- 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher. 
+- 💞️ I’m actively looking for a job starting in 2024
+- 🌱 I’m currently learning **Large Language Model (LLM)** and **Transformers**
 - 📫 How to reach me: [jiaop24@g.ucla.edu](mailto:jiaop24@g.ucla.edu)
 
 ---
