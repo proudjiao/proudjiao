@@ -23,7 +23,7 @@
 </h1>
 
 
-- 👨‍💻 I’m a former Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
+- 👨‍💻 I’m a currently data analyst at Amazon Game Studio, formerly an Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
 - 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher. 
 - 💞️ I’m actively looking for a job starting in 2024
 - 🌱 I’m currently learning **Large Language Model (LLM)** and **Transformers**
