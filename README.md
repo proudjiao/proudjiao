@@ -23,7 +23,7 @@
 </h1>
 
 
-- 👨‍💻 I’m currently a data analyst at **Amazon** Rufus Team, formerly an Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
+- 👨‍💻 I’m currently a data scientist at **Amazon** Stores Foundational AI Team, formerly an Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
 - 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher. 
 - 💞️ I’m actively looking for a job starting in 2024
 - 🌱 I’m currently learning Large Language Model (LLM) and Transformers
