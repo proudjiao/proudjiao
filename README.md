@@ -26,7 +26,7 @@
 - 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher.
 - 💞️ I’m actively looking for a job starting in 2024
 - 🌱 I’m currently learning Large Language Model (LLM) and Transformers
-- 📫 How to reach me: [jiaop24@g.ucla.edu](mailto:jiaop24@g.ucla.edu)
+- 📫 How to reach me: [jiaoao018325@gmail.com](mailto:jiaoao018325@gmail.com)
 
 ---
 
