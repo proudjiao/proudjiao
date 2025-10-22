@@ -22,9 +22,8 @@
   Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Proud Jiao
 </h1>
 
-
-- 👨‍💻 I’m currently a data scientist at **Amazon** Stores Foundational AI Team, formerly an Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
-- 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher. 
+- 👨‍💻 I’m ex-data scientist at **Amazon** Stores Foundational AI Team and current data engineer from FashionNova, formerly an Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData.
+- 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher.
 - 💞️ I’m actively looking for a job starting in 2024
 - 🌱 I’m currently learning Large Language Model (LLM) and Transformers
 - 📫 How to reach me: [jiaop24@g.ucla.edu](mailto:jiaop24@g.ucla.edu)
