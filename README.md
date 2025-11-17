@@ -23,15 +23,16 @@
 </h1>
 
 - 👨‍💻 I’m ex-data scientist at **Amazon** Stores Foundational AI Team and current data engineer from FashionNova, formerly an Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData.
+- 👨‍💻 I professionally manages database systems operating at billions of records in scale, with deep expertise in data workflows tailored to the fashion industry
 - 👀 I'm an AI lover, Machine Learning Enthusiast, Kaggle Practitioner, and Computer Vision researcher.
-- 💞️ I’m actively looking for a job starting in 2024
-- 🌱 I’m currently learning Large Language Model (LLM) and Transformers
+- 💞️ I’m actively looking for a job
 - 📫 How to reach me: [jiaoao018325@gmail.com](mailto:jiaoao018325@gmail.com)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <!-- <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40" />&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
